@@ -3,4 +3,4 @@
 
 💙 Join the Channel to see more Videos like this. [Coding Programming](https://www.youtube.com/@codingprogramming77)
 
-![Thumbnail](/thumbnail.png)
+![Thumbnail](/screenshot.png)
